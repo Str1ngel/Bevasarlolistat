@@ -1,0 +1,10 @@
+kenyér;651,2
+tej;945
+fagyasztott kukorica;725
+majonéz;584
+kifli;660
+paradicsom;999,8
+banán;487
+kávé;1299,1
+kesztyű;2200
+Végösszeg: 8551,1
